@@ -10,7 +10,6 @@ You can stop Node-RED by closing the terminal window or using Ctrl-C in the term
 
 **Node-RED editor**
 The Node-RED editor can be accessed from http://localhost:1880.
-
 However, if Node-RED is on the Raspberry Pi, you can connect to it via http://<Raspberry Pi IP>:1880.
  
 **Import the Node-RED flow**
@@ -28,5 +27,5 @@ If using a Raspberry Pi with peripherals, then use the raspberrypi-flows.json.
 Select Import to new flow
 Click Import
  
-**After Import ** 
- Change MQTT broker to LocalHost 
+**After Import **
+Change MQTT broker to LocalHost 
