@@ -25,6 +25,4 @@ Browse to and select one of the flow files in the cloned repo
 If trying things out locally on your browser, then use the browser-flow.json.
 If using a Raspberry Pi with peripherals, then use the raspberrypi-flows.json.
 Select Import to new flow
-Click Import 
- 
- <After Import: Change MQTT Broker to LocalHost>
+Click Import. After Import, change MQTT Broker to LocalHost. 
