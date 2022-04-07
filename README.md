@@ -1,3 +1,7 @@
+Tele Self-Photo is a photobooth inspired project. It enables users to take photos with a camera connected to a Raspberry Pi. It is also capable of toggling LED lights either through voice command or through a toggle button on the User Interface, providing an experience like a photobooth. This is achieved through Message Queuing 
+Telemetry Transport (MQTT), a publication-subscription messaging protocol based on the TCP / IP protocol. A Mosquitto MQTT Publisher and Broker is run on Raspberry Pi 1, and a MQTT Subscriber on Raspberry Pi 2.
+
+
 **Start Node-RED**
 Node-RED can be started from a terminal by running this command from within the directory of the cloned repository:
 
