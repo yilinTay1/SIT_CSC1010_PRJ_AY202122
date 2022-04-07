@@ -27,4 +27,4 @@ If using a Raspberry Pi with peripherals, then use the raspberrypi-flows.json.
 Select Import to new flow
 Click Import.
  
- **After Import,** change Test Node MQTT Broker to LocalHost. 
+ **After Import:** Change Test Node MQTT Broker to LocalHost. 
